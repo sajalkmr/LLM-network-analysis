@@ -1,0 +1,8 @@
+pandas
+langchain
+google-generativeai
+chromadb
+sentence-transformers
+langchain-google-genai
+streamlit
+torch

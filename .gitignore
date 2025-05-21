@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and logs
+*.log
+*.cache
+
+# Environment variables
+.env
+.env.*
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.db
+*.sqlite3
+*.bin
+*.pickle
+*.pkl
+*.h5
+*.hdf5
+
+# Chroma vector database
+chroma_db/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/ 
