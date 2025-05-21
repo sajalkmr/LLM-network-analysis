@@ -15,7 +15,6 @@ __pycache__/
 .streamlit/secrets.toml
 
 # Data files
-*.csv
 *.tsv
 *.xlsx
 *.xls
@@ -26,6 +25,10 @@ __pycache__/
 *.pkl
 *.h5
 *.hdf5
+
+# Allow specific dataset files
+!NUSW-NB15_features1.csv
+!UNSW_NB15_attack_binary_bits.csv
 
 # Chroma vector database
 chroma_db/
