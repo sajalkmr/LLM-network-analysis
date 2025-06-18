@@ -52,10 +52,6 @@ streamlit run app.py
 - `chroma_db/`: Vector database (git-ignored)
 - `.streamlit/`: Configuration and secrets
 
-## Contributing
-
-Contributions welcome! Please submit a Pull Request.
-
 ## License
 
 MIT License 
